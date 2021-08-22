@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  myweb:
+  - apiVersion: v1
+    appVersion: "1.1"
+    created: "2021-08-22T11:39:47.607946+05:30"
+    description: This is Helm chart for my web
+    digest: d901dcac89af102b5b8e0b8d810474f0e6ebb2ebf71d66e8f85fdd7603676a62
+    name: myweb
+    urls:
+    - myweb-0.2.tgz
+    version: "0.2"
+generated: "2021-08-22T11:39:47.47696+05:30"
